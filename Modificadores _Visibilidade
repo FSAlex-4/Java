@@ -1,0 +1,4 @@
+Modificadores de visibilidade:Indicam o nível de acesso aos componentes internos de uma classe.
++ :publico é quando a/as classe atual podem ser utilizadas por qualquer outra classe.
+- : privado, somente a classe tem acesso.
+# : protegido da acesso a classe atual e todas as suas sub-classes

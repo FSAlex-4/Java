@@ -1,0 +1,15 @@
+//obejetos: Coisa material ou imateria(abstrata) que pode ser sentida ou percebida pelos sentidos ou pela mente,
+//  por meio de suas caracteristicas, comportamentos e estados.
+//atributos:moelo, cor, carga...(começa com letra miúscula e não tem paranteses na frente)
+//metodos:ligar, desligar, acelerar, freiar, escrever...(Começa com letra minuscula e tem parenteses logo após)
+//estado: ligado ou desligado, velocidade, marcha, funcionando ou não funcionando...
+//Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto.(Sempre começa com letra maíscula)
+
+
+
+public class OlaMundo {
+    public static void main(String[] args){
+        System.out.println("Olá Mundo!");
+        
+    }
+}
