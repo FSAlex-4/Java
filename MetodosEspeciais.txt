@@ -1,0 +1,7 @@
+Metodo Acessores 
+getter: um metodo pra acessar o atributo, se pegar uma caneta ou valor  como se tivesse alguém intermediando
+limitando o acesso para que a pessoa não tenha acesso direto ao código.
+Metodos modificadores
+setter: O metodo setter modifica coisa no objeto, garantindo uma segurança do código do objeto, mantendo organização e segurança, evitando que possa ser alterado diretamente por quem estiver acessando.
+Metodo Construtor
+construct: ELe serve para padronizar a criação de objetos, diminuindo as linas para um para criação de um objeto.
