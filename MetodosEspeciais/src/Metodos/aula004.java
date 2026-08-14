@@ -1,3 +1,4 @@
+package Metodos;
 public class aula004 {
     public static void main(String[] args) throws Exception {
         CanetaM c1= new CanetaM ("Faber Castell", "Preta",0.7f);

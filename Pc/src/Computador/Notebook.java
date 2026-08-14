@@ -1,3 +1,5 @@
+package Computador;
+
 import java.util.Scanner;
 public class Notebook {
     private String modelo;
@@ -24,7 +26,7 @@ public class Notebook {
         this.cor = C;
     }
 
-    protected public Boolean fechado = true;
+    protected Boolean fechado = true;
     protected Boolean aberto = false;
     protected Boolean ligado = false;
     public Boolean desligado = true;
@@ -37,7 +39,7 @@ public class Notebook {
                 this.aberto = a;
     }
 
-    public boolean getfechar(){
+    public Boolean getfechar(){
                 return this.fechado;
     }
     public void setfechar(boolean f) {
@@ -45,12 +47,11 @@ public class Notebook {
     }
 
     void setlogin(String l){
-        if(aberto && ligado = true)
-             System.out.print("logan em conta pessoal por favor inserir senha.");
-            String 
-    } else
-        {
-        System.out.print("Computador desligado ou fechado favor abri-lo e ligalo para iniciar");
+        if (aberto && ligado) {
+            System.out.print("logar em conta pessoal por favor inserir senha.");
+        } else {
+            System.out.print("Computador desligado ou fechado favor abri-lo e ligalo para iniciar");
+        }
     }
 
     void status() {

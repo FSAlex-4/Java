@@ -1,3 +1,4 @@
+package Metodos;
 public class CanetaM {
      private String modelo;
     public  CanetaM(String M, String C, Float P) {
