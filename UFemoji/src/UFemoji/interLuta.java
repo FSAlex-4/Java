@@ -7,4 +7,5 @@ public interface interLuta {
         public abstract void perderLuta();
         public abstract void empatarLuta();
         
+        
 }

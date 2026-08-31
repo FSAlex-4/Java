@@ -1,3 +1,7 @@
 {
-    "chat.disableAIFeatures": false
+    "chat.disableAIFeatures": false,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/as/Downloads/jfreechart-1.5.4.jar"
+    ]
 }
